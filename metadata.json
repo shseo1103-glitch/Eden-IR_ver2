@@ -1,0 +1,6 @@
+{
+  "name": "Eden-IR 통합 마스터 DB & 다중 사용자 포털 시스템",
+  "description": "로그인하는 계정(관리자, 심사위원, 스타트업, 컨설턴트, 발주처, 마스터DB)에 따른 맞춤형 전용 앱과 Eden-IR 통합 마스터 DB 및 통계 대시보드를 제공하는 모던 미니멀 하이브리드 컨설팅 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
